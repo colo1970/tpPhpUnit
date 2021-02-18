@@ -8,6 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * @ORM\Entity(repositoryClass=ArticleRepository::class)
  */
+ //mon entity
 class Article
 {
     /**
